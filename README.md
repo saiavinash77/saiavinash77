@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @saiavinash
 - 👀 I’m interested in exploring new things and starting something new.
 - 🌱 I’m currently learning MACHINE LEARNING.
-- 💞️ I’m looking to collaborate on COLLEGE DROPOUTS,
-      Because we have lots of ideas to connect but no
-      one for execution.
+- 💞️ I’m looking to collaborate with COLLEGE DROPOUTS,
+      Because we have lots of ideas to connect,but no
+      one for execution and worst part is we are lazy but......
 - 📫 How to reach me just sent an e-mail to 
       saiavinash1427@gmail.com
 - 😄 Pronouns: if a man without gaining something , will tell something 
