@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saiavinash
--🚀 Aspiring AI Engineer | 🐍 Python, 📊 Data Science & 🤖 Generative AI Enthusiast
+- Product Builder ⚒️⚒️🛠️🚀 Aspiring AI Engineer | 🐍 Python, 📊 Data Science & 🤖 Generative AI Enthusiast
 
 Hi! I’m a dedicated student passionate about becoming an AI Engineer. I have hands-on experience with Python 🐍 and libraries like NumPy, Pandas, Scikit-learn, Matplotlib, and Seaborn 📈, focusing on data preprocessing and analysis. I’m also exploring frameworks like LangChain 🦜🔗 for building advanced language-based applications.
 
